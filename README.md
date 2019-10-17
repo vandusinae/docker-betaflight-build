@@ -26,6 +26,9 @@ Next, Clone the Betaflight repository.
 To Clone a Github repository
 <code>git clone https://github.com/betaflight/betaflight.git</code>
 
+Change in the betaflight project directory
+<code>cd betaflight</code>
+
 To view Branches within a repository
 <code>git branch -a</code>
 
